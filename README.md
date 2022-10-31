@@ -9,3 +9,17 @@ I am Collage Student with role Full Stack Developer (Basic) , Android Developer 
 ### Programming: 
 - HTML
 - CSS
+- JavaScript (Newbie)
+- C++
+- PHP
+- Java
+- Python (on-going)
+
+### Frameworks that I've tried
+- CodeIgniter 3
+- Node JS
+
+### Tools:
+- Visual Studio Code
+- Git and Github
+- Bootstrap Studio
