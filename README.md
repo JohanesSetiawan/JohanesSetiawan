@@ -8,6 +8,7 @@ I am a proficient Full Stack Developer with a solid grasp of basic Full Stack de
 - HTML, CSS, Javascript
 - PHP
 - Java
+- Flutter (Dart)
 
 ### Frameworks CSS that I've tried:
 - Bootstrap 5
