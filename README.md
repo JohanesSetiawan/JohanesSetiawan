@@ -5,27 +5,18 @@ I am a proficient Full Stack Developer and AI Developing with a solid grasp of b
 
 ## Language and Tools:
 Programming: 
-- HTML, CSS, Javascript
 - PHP
 - Java
 - Flutter (Dart)
 - Python
 
 Frameworks that i've tried:
-- NextJS
-- ReactJS
-- CodeIgniter 4
 - Laravel
 - FastAPI
-- Django
 - Gradio
-- Streamlit
-- Flutter,
+- Flutter
 - TensorFlow
 - PyTorch
-- OpenCV.
-
-Frameworks CSS that I've tried:
 - Bootstrap 5
 - TailwindCSS
 
