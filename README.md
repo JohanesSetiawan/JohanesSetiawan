@@ -11,10 +11,9 @@ Programming:
 - Python
 
 Frameworks that i've tried:
-- Laravel
 - FastAPI
+- Flask
 - Gradio
-- Flutter
 - TensorFlow
 - PyTorch
 - Bootstrap 5
@@ -25,3 +24,4 @@ Tools:
 - Github
 - Figma
 - Laragon
+- XAMPP
