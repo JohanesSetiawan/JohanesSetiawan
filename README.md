@@ -1,27 +1,32 @@
-**Hi there I'm Johanes Setiawan**
+Hey there! 👋
 
-## About Me:
-I am a proficient Full Stack Developer and AI Developing with a solid grasp of basic Full Stack development, Java-based Android development, and AI Development. Currently based in Semarang, Indonesia, I am in the midst of my sixth semester at Dian Nuswantoro University. My fascination with information technology and computers began in junior high school—an origin that may seem modest, but has driven me towards a fulfilling path. A significant achievement was securing the LKS championship title during my tenure at SMK (Vocational High School), even though I landed in third place instead of first. I remain dedicated to continuous self-improvement, actively pursuing new knowledge daily to exceed my previous self.
+I'm **Johanes Setiawan**, an AI and Mobile Developer with a fresh degree in hand!
 
-## Language and Tools:
-Programming: 
-- PHP
-- Java
-- Flutter (Dart)
-- Python
+---
 
-Frameworks that i've tried:
-- FastAPI
-- Flask
-- Gradio
-- TensorFlow
-- PyTorch
-- Bootstrap 5
-- TailwindCSS
+## What I'm All About
 
-Tools:
-- Visual Studio Code Inside
-- Github
-- Figma
-- Laragon
-- XAMPP
+My passion lies at the exciting crossroads of **Artificial Intelligence** and **Mobile Development**, especially building awesome experiences with **Flutter**. I'm someone who loves taking complex ideas from the AI realm and translating them into smooth, intuitive applications you can hold in your hand.
+
+It all started with a fascination for computers back in junior high, and that early spark has grown into a drive to constantly learn and build meaningful tech. I thrive on challenges and figuring out how to make technology work smarter and better for people.
+
+## My Go-To Stack
+
+Here's a peek at the tech I'm currently working with and focusing on:
+
+* **Languages:** Python | Dart (Flutter)
+* **Frameworks & Libraries:** PyTorch, Gradio, Flask, FastAPI, Flutter
+* **Tools:** VS Code, GitHub
+
+*Just for fun, I also occasionally tinker with Swift, Kotlin, and Native PHP to keep the learning curve interesting!*
+
+## Publications
+Really excited about this one! I recently worked on a publication titled:
+
+* **"Automatic Speech Recognition for Javanese Language using Wav2Vec 2.0 with Finetuning"** (Currently on-reviewing)
+
+This project was a deep dive into applying cutting-edge AI models to tackle language-specific challenges.
+
+---
+
+Thanks for dropping by! Feel free to reach out if you want to chat tech or collaborate on something cool. ✨
