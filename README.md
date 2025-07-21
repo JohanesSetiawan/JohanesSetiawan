@@ -23,6 +23,7 @@ Here's a peek at the tech I'm currently working with and focusing on:
 ## Publications
 Really excited about this one! I recently worked on a publication titled:
 
+* **"IndoBERT-based Indonesian Cyberbullying Detection with Multi-stage Labeling"** [Link to paper](https://ieeexplore.ieee.org/abstract/document/10762553)
 * **"Automatic Speech Recognition for Javanese Language using Wav2Vec 2.0 with Finetuning"** (Currently on-reviewing)
 
 This project was a deep dive into applying cutting-edge AI models to tackle language-specific challenges.
