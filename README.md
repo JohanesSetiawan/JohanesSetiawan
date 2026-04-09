@@ -1,12 +1,12 @@
 Hey there! 👋
 
-I'm **Johanes Setiawan**, an AI and Mobile Developer with a fresh degree in hand!
+I'm **Johanes Setiawan**, a Junior AI Engineer with a fresh degree in hand!
 
 ---
 
 ## What I'm All About
 
-My passion lies at the exciting crossroads of **Artificial Intelligence** and **Mobile Development**, especially building awesome experiences with **Flutter**. I'm someone who loves taking complex ideas from the AI realm and translating them into smooth, intuitive applications you can hold in your hand.
+My passion lies at the **Artificial Intelligence**. I'm someone who loves taking complex ideas from the AI realm and translating them into smooth, intuitive applications you can hold in your hand.
 
 It all started with a fascination for computers back in junior high, and that early spark has grown into a drive to constantly learn and build meaningful tech. I thrive on challenges and figuring out how to make technology work smarter and better for people.
 
@@ -14,11 +14,9 @@ It all started with a fascination for computers back in junior high, and that ea
 
 Here's a peek at the tech I'm currently working with and focusing on:
 
-* **Languages:** Python | Dart (Flutter)
-* **Frameworks & Libraries:** PyTorch, Gradio, Flask, FastAPI, Flutter
-* **Tools:** VS Code, GitHub
-
-*Just for fun, I also occasionally tinker with Swift, Kotlin, and Native PHP to keep the learning curve interesting!*
+* **Languages:** Python
+* **Frameworks & Libraries:** PyTorch, Gradio, Flask, FastAPI, Huggingface
+* **Tools:** VS Code, GitHub, Claude Code, Codex
 
 ## Publications
 Really excited about this one! I recently worked on a publication titled:
